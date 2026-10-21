@@ -1,3 +1,3 @@
 # Teammotto
 
-Warum hat Git Bindungsangst? Zu viele Commitment Issues.
+Warum hat Git Bindungsangst? Zu viele Commitment Issues – deshalb erst testen, dann committen.
