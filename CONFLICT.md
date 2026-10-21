@@ -1,3 +1,3 @@
 # Teammotto
 
-Erst committen, dann bereuen.
+Erst testen, dann committen.
