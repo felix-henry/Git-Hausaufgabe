@@ -1,3 +1,3 @@
 # Teammotto
 
-Erst committen, dann bereuen.
+Warum hat Git Bindungsangst? Zu viele Commitment Issues.
