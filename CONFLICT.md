@@ -1,3 +1,3 @@
 # Teammotto
 
-Erst committen, dann bereuen.
+Lieber kleine Commits als große Konflikte.
