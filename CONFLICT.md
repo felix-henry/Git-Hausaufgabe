@@ -1,3 +1,3 @@
 # Teammotto
 
-Erst testen, dann committen.
+Warum hat Git Bindungsangst? Zu viele Commitment Issues – deshalb erst testen, dann committen.
